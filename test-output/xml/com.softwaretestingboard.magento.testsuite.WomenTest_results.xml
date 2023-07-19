@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nopcommerce Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.276">
+  <properties />
+  
+  
+            <testcase name="verifyTheSortByPriceFilter" time="6.683" classname="com.softwaretestingboard.magento.testsuite.WomenTest" />
+                <testcase name="verifyTheSortByProductNameFilter" time="5.593" classname="com.softwaretestingboard.magento.testsuite.WomenTest" />
+      
+</testsuite>
